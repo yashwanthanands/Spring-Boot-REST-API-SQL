@@ -65,5 +65,4 @@ public class NoteUtil {
 		this.content = content;
 	}
 
-
 }
